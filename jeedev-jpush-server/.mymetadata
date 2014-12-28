@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jeedev-jpush-server"
+  id="myeclipse.1392167002250"
+  context-root="/jeedev-jpush-server"
+  j2ee-spec="6.0"
+  archive="jeedev-jpush-server.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
